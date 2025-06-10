@@ -1,6 +1,6 @@
 ## About Me
 ```js
-  const Olga = {
+  const Jarrad = {
     role: "Principal Engineer",
     focus: "Full Stack Development",
     passion: "Contribute Open Source and build tiny startups"
