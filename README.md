@@ -50,6 +50,8 @@
   [![My Skills](https://skillicons.dev/icons?i=html,css,sass,less,tailwind,js,jquery,ts,next,react,redux,vue,cs,php,dotnet,supabase,vercel,aws,azure,postman,mysql,nodejs,angular,bitbucket,bootstrap,vscode,figma,firebase,git,npm,github,notion,powershell,gmail,discord)](https://skillicons.dev)
 </div>
 
+### 📊 Weekly development breakdown
+
 <!--START_SECTION:waka-->
 
 ```rust
