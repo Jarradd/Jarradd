@@ -54,7 +54,7 @@
 
 <!--START_SECTION:waka-->
 
-```rust
+```txt
 From: 09 June 2025 - To: 10 June 2025
 
 Total Time: 52 mins
