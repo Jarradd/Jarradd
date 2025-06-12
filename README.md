@@ -55,11 +55,11 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Total Time: 52 mins
+Total Time: 3 hrs 21 mins
 
-TypeScript   31 mins         >>>>>>>>>>>>>>>----------   59.47 %
-CSS          15 mins         >>>>>>>------------------   29.70 %
-Other        0 secs          -------------------------   01.71 %
+TypeScript   2 hrs 20 mins   >>>>>>>>>>>>>>>>>--------   69.16 %
+CSS          51 mins         >>>>>>-------------------   25.25 %
+Other        0 secs          -------------------------   00.45 %
 ```
 
 <!--END_SECTION:waka-->
